@@ -1,17 +1,17 @@
 {
-  "name": "click-link",
+  "name": "double-click-link",
   "main": "./lib/click-link",
-  "version": "1.0.11",
-  "description": "Enables ctrl clicking links and opening them in the browser",
+  "version": "1.0.0",
+  "description": "Enables double clicking links and opening them in the browser",
   "keywords": [
     "link",
     "click",
-    "ctrl-click",
+    "double-click",
     "open in browser",
     "open link",
     "browser"
   ],
-  "repository": "https://github.com/patrick96/click-link",
+  "repository": "https://github.com/plaskowski/atom-double-click-link",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
